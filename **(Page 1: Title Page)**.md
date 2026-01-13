@@ -1,4 +1,3 @@
-**(Page 1: Title Page)**
 # ONLINE COMPLIANCE SUITE
 # MASTER LEGAL DOCUMENTATION
 **Prepared For:**BY SOMMER[https://www.bysommer.net]
